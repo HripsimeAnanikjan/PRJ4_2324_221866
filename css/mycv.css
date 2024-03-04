@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+.pipi {
+    color: #E70B0F;	
+}
+
+.hip {
+     font-family: "Anta", sans-serif;
+	 font-weight: 400;
+}
+
+#lala {font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+
+.mybox {
+    width: 600px;
+    height: 100px;
+    background-color: #D4A9A9;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    padding-top: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    border: 12px solid #190304;
+} 
+
+.mybox {
+    width: 600px;
+    height: 100px;
+    background-color: #D4A9A9;	
+} 
+
+
+.btn-danger {
+    background-color: #CCA6A7;	
+	
+}
